@@ -1,0 +1,7 @@
+D:\Igort\C#Nauka\TestBall\TestBall\bin\Debug\TestBall.exe.config
+D:\Igort\C#Nauka\TestBall\TestBall\bin\Debug\TestBall.exe
+D:\Igort\C#Nauka\TestBall\TestBall\bin\Debug\TestBall.pdb
+D:\Igort\C#Nauka\TestBall\TestBall\obj\Debug\TestBall.csprojAssemblyReference.cache
+D:\Igort\C#Nauka\TestBall\TestBall\obj\Debug\TestBall.csproj.CoreCompileInputs.cache
+D:\Igort\C#Nauka\TestBall\TestBall\obj\Debug\TestBall.exe
+D:\Igort\C#Nauka\TestBall\TestBall\obj\Debug\TestBall.pdb

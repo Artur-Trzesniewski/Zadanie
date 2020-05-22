@@ -1,0 +1,17 @@
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\TestBall.Test.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\TestBall.Test.pdb
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\TestBall.exe
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\TestBall.pdb
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\TestBall.exe.config
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Igort\C#Nauka\TestBall\TestBall.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Igort\C#Nauka\TestBall\TestBall.Test\obj\Debug\TestBall.Test.csprojAssemblyReference.cache
+D:\Igort\C#Nauka\TestBall\TestBall.Test\obj\Debug\TestBall.Test.csproj.CoreCompileInputs.cache
+D:\Igort\C#Nauka\TestBall\TestBall.Test\obj\Debug\TestBall.Test.csproj.CopyComplete
+D:\Igort\C#Nauka\TestBall\TestBall.Test\obj\Debug\TestBall.Test.dll
+D:\Igort\C#Nauka\TestBall\TestBall.Test\obj\Debug\TestBall.Test.pdb
